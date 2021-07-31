@@ -7,3 +7,7 @@
 <h1>Sobre</h1>
 
 <p>A função Weierstrass é um contra-exemplo que mostra a existência de uma função contínua em toda reta real e que não possui derivada em nenhum ponto</p>
+
+
+![image](https://user-images.githubusercontent.com/46492977/127743523-baa2f639-1e86-409e-965e-18ea97dcb5cb.png)
+
