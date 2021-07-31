@@ -27,7 +27,7 @@
 ![image](https://user-images.githubusercontent.com/46492977/127743866-a557565a-ab53-471d-bb0d-19512c59d055.png)
 
 
-<h3>Implementação</h3>
+<h2>Implementação</h2>
 
 <p>Tendo como base esses cálculos foi realizada uma implementação da função, dado um vetor de entrada X. Sendo assim foram calculados cada pedaço da função separadamente:</p>
 <p>1.Zi - o resultado de Zi é um vetor coluna</p>
