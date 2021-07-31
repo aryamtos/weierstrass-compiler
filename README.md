@@ -18,5 +18,13 @@
 <br />
 
 ![image](https://user-images.githubusercontent.com/46492977/127743647-cf68244b-1e6d-426e-ac3e-541a0de2b27d.png)
+  
+
+<h3>Função Tosz</h3>
+
+<p>A função Tosz com descrito anteriormente recebe como entrada o produto de uma matriz ortogonal R com um vetor coluna e atende as seguintes especificações:</p>
+
+![image](https://user-images.githubusercontent.com/46492977/127743866-a557565a-ab53-471d-bb0d-19512c59d055.png)
+
 
 
