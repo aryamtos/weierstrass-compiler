@@ -43,7 +43,6 @@
 [https://www.dabeaz.com/ply/ply.html#ply_nn3](url)
 
 
-<p> Analizador Léxico</p>
 
-[https://github.com/aryamtos/compiladores-weierstrass/blob/main/functionLexicalAnalyzer.py](url)
+
 
