@@ -11,6 +11,7 @@
 
 <br />
 <p>Segue abaixo a função utilizada como entrada</p>
+<p> É importante ressaltar que a função Tosz recebe como entrada uma matriz ortogonal, cujo cálculo é realizado para geração da mesma,essa matriz é multiplicada com o vetor coluna x, portanto a entrada de Tosz é um vetor.
 
 ![image](https://user-images.githubusercontent.com/46492977/127743523-baa2f639-1e86-409e-965e-18ea97dcb5cb.png)
 
