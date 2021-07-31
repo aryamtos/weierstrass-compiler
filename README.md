@@ -35,3 +35,10 @@
 <p>1.Fpen - descrita na imagem acima</p>
 <p>1.R e Q - foram geradas as matrizes ortogonais com base em cálculos específicos</p>
 
+
+<h2>Analisador Léxico</h2>
+
+<p>Para construção do analisador léxico foi utilizado o PLY, cujo link encontra-se abaixo. Ele utiliza o LEX e o YACC para o parser.</p>
+
+
+
