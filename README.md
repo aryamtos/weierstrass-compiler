@@ -42,5 +42,5 @@
 
 [https://www.dabeaz.com/ply/ply.html#ply_nn3](url)
 
-<p>[https://github.com/aryamtos/compiladores-weierstrass/blob/main/functionLexicalAnalyzer.py](Analizador Léxico)
+[https://github.com/aryamtos/compiladores-weierstrass/blob/main/functionLexicalAnalyzer.py](Léxico)
 
