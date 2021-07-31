@@ -40,5 +40,5 @@
 
 <p>Para construção do analisador léxico foi utilizado o PLY, cujo link encontra-se abaixo. Ele utiliza o LEX e o YACC para o parser.</p>
 
-
+[https://www.dabeaz.com/ply/ply.html#ply_nn3](url)
 
