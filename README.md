@@ -44,5 +44,6 @@
 
 
 <p> Analizador Léxico</p>
-[https://github.com/aryamtos/compiladores-weierstrass/blob/main/functionLexicalAnalyzer.py](Léxico)
+
+[https://github.com/aryamtos/compiladores-weierstrass/blob/main/functionLexicalAnalyzer.py](url)
 
