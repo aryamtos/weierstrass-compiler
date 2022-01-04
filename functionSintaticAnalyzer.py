@@ -1,9 +1,4 @@
 ''''
-# Ariadne Nascimento Matos
-# Matrícula: 201711751
-# Professor: Dr Paulo André Sperandio Giacomin
-# Disciiplina: Compiladores  Assunto: Analisador Sintático
-
 #Informações:
 
 1. A gramática aqui utilizada é específica somente para o programa, uma vez que, foi criada uma tabela própria pra cada
