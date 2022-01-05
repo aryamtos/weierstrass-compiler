@@ -36,9 +36,9 @@
 <p>1.R e Q - foram geradas as matrizes ortogonais com base em cálculos específicos</p>
 
 
-<h2>Analisador Léxico</h2>
+<h2>Analisador Léxico e Sintático</h2>
 
-<p>Para construção do analisador léxico foi utilizado o PLY, cujo link encontra-se abaixo. Ele utiliza o LEX e o YACC para o parser.</p>
+<p>Para construção do analisador léxico foi utilizado o PLY, cujo link encontra-se abaixo. Ele utiliza o LEX e o YACC para o parser. O analisador sintático foram utilizados identificadores pré-definidos para a função.</p>
 
 [https://www.dabeaz.com/ply/ply.html#ply_nn3](url)
 
